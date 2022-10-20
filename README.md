@@ -1,2 +1,2 @@
 # gitDemoPW
-It is the first lecture of git in PW
+It is the first Demo lecture of git in PW
